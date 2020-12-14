@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "nsCz0zVmGHRJRmb8RYEaJlR5/m8rYa2uvT3jbtYpg/V9UTR8hj88tM0GlnkVme7x0bPSVpIdgSaoRVoqoD9Dng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juanpablo\\source\\repos\\BackendAcademico\\BackendAcademico\\BackendAcademico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juanpablo\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\Juanpablo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Juanpablo\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Juanpablo\\.nuget\\packages\\oracle.manageddataaccess.core\\2.19.100\\oracle.manageddataaccess.core.2.19.100.nupkg.sha512",
+    "C:\\Users\\Juanpablo\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

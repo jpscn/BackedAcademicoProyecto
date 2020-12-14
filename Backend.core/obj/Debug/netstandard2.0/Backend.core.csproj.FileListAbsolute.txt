@@ -1,0 +1,9 @@
+C:\Users\Juanpablo\source\repos\BackendAcademico\Backend.core\bin\Debug\netstandard2.0\Backend.core.deps.json
+C:\Users\Juanpablo\source\repos\BackendAcademico\Backend.core\bin\Debug\netstandard2.0\Backend.core.dll
+C:\Users\Juanpablo\source\repos\BackendAcademico\Backend.core\bin\Debug\netstandard2.0\Backend.core.pdb
+C:\Users\Juanpablo\source\repos\BackendAcademico\Backend.core\obj\Debug\netstandard2.0\Backend.core.csprojAssemblyReference.cache
+C:\Users\Juanpablo\source\repos\BackendAcademico\Backend.core\obj\Debug\netstandard2.0\Backend.core.AssemblyInfoInputs.cache
+C:\Users\Juanpablo\source\repos\BackendAcademico\Backend.core\obj\Debug\netstandard2.0\Backend.core.AssemblyInfo.cs
+C:\Users\Juanpablo\source\repos\BackendAcademico\Backend.core\obj\Debug\netstandard2.0\Backend.core.csproj.CoreCompileInputs.cache
+C:\Users\Juanpablo\source\repos\BackendAcademico\Backend.core\obj\Debug\netstandard2.0\Backend.core.dll
+C:\Users\Juanpablo\source\repos\BackendAcademico\Backend.core\obj\Debug\netstandard2.0\Backend.core.pdb

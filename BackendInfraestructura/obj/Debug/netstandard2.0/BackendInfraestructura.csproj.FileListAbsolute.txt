@@ -1,0 +1,12 @@
+C:\Users\Juanpablo\source\repos\BackendAcademico\BackendInfraestructura\obj\Debug\netstandard2.0\BackendInfraestructura.csprojAssemblyReference.cache
+C:\Users\Juanpablo\source\repos\BackendAcademico\BackendInfraestructura\obj\Debug\netstandard2.0\BackendInfraestructura.AssemblyInfoInputs.cache
+C:\Users\Juanpablo\source\repos\BackendAcademico\BackendInfraestructura\obj\Debug\netstandard2.0\BackendInfraestructura.AssemblyInfo.cs
+C:\Users\Juanpablo\source\repos\BackendAcademico\BackendInfraestructura\obj\Debug\netstandard2.0\BackendInfraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Juanpablo\source\repos\BackendAcademico\BackendInfraestructura\bin\Debug\netstandard2.0\BackendInfraestructura.deps.json
+C:\Users\Juanpablo\source\repos\BackendAcademico\BackendInfraestructura\bin\Debug\netstandard2.0\BackendInfraestructura.dll
+C:\Users\Juanpablo\source\repos\BackendAcademico\BackendInfraestructura\bin\Debug\netstandard2.0\BackendInfraestructura.pdb
+C:\Users\Juanpablo\source\repos\BackendAcademico\BackendInfraestructura\bin\Debug\netstandard2.0\Backend.Core.dll
+C:\Users\Juanpablo\source\repos\BackendAcademico\BackendInfraestructura\bin\Debug\netstandard2.0\Backend.Core.pdb
+C:\Users\Juanpablo\source\repos\BackendAcademico\BackendInfraestructura\obj\Debug\netstandard2.0\BackendInfraestructura.csproj.CopyComplete
+C:\Users\Juanpablo\source\repos\BackendAcademico\BackendInfraestructura\obj\Debug\netstandard2.0\BackendInfraestructura.dll
+C:\Users\Juanpablo\source\repos\BackendAcademico\BackendInfraestructura\obj\Debug\netstandard2.0\BackendInfraestructura.pdb
